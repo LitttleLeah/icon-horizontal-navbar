@@ -15,7 +15,7 @@ body {
     width: 100%; /* Full width */
     height: 4rem;
     background-color: #291720;
-    overflow: auto; /* Overflow that'll occur due to the float below */
+    /*overflow: auto;  Overflow that'll occur due to the float below */
 }
 
 .icon-bar a {
